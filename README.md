@@ -1,2 +1,2 @@
-# convert-xml-into-java-object-using-xmlMapper
-xmlMapper - to covert xml tags into java object
+# convert-xml-into-java-object-using-xmlMapper (Jackson)
+xmlMapper (Jackson) - to covert xml tags into java object
