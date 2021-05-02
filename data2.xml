@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<persons>
+
+
+	<person firstName="Ankit" lastName="kumar" age="24">
+
+		<address>
+			<street>tilak marg</street>
+			<city>Pune</city>
+			<zip>458441</zip>
+		</address>
+		<cars>
+			<car>MGW </car>
+			<car>audi </car>
+		</cars>
+	</person>
+
+	<!--person firstName="Lekha" lastName="sharma" age="24">
+		<address>
+			<street>tilak marg</street>
+			<city>Dubai</city>
+			<zip>458441</zip>
+		</address>
+		<cars>
+			<car>jaguar </car>
+			<car>BMW </car>
+			</cars>
+	</person-->
+
+</persons>
+
